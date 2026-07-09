@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/walter-white/flight</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-07-09T19:21:11Z</dc:date>
+		<meta property="dcterms:modified">2026-07-09T19:21:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -46,15 +46,15 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100654</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young Louisiana Creole woman struggles with racial and gender equality as she asserts her independence.</dc:description>
+		<dc:description id="description">A young Louisiana Creole woman struggles for racial and gender equality as she asserts her independence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After the death of his wife Margot, Jean Daquin, the patriarch of a proud Louisiana Creole family, finds himself crushed by despair. As a widower, Jean is barely able to take care of his daughter Mimi, but he marries Mary Robertson, the industrious daughter of a Chicago businessman. Mary takes charge over the family’s affairs and convinces Jean to move the family out of New Orleans in order to pursue more lucrative business opportunities in Atlanta. As Mimi comes of age in Atlanta, she becomes increasingly conscious of her racial identity as a woman of color and the stifling cultural conformity that is demanded among Atlanta’s African-American bourgeoisie. &lt;i&gt;Flight&lt;/i&gt; follows Mimi’s struggle to assert her independence and live according to her principles in the face of racial and gender inequality, which takes her from Atlanta to Philadelphia and ultimately New York City. It is the second novel published by &lt;a href="https://standardebooks.org/ebooks/walter-white"&gt;Walter White&lt;/a&gt;, who later became the executive secretary of the NAACP.&lt;/p&gt;
+			&lt;p&gt;After the death of his wife Margot, Jean Daquin, the patriarch of a proud Louisiana Creole family, finds himself crushed by despair. As a widower, Jean is barely able to take care of his daughter Mimi, but he marries Mary Robertson, the industrious daughter of a Chicago businessman. Mary takes charge of the family’s affairs and convinces Jean to move the family to Atlanta in order to pursue more lucrative business opportunities. As Mimi comes of age in Atlanta, she becomes increasingly conscious of her racial identity as a woman of color, and of the stifling cultural conformity that is demanded of Atlanta’s African-American bourgeoisie. &lt;i&gt;Flight&lt;/i&gt; follows Mimi’s struggle to assert her independence and live according to her principles in the face of racial and gender inequality, which takes her from Atlanta to Philadelphia and ultimately New York City.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://nealcaren.github.io/crisis-and-opportunity-books/flight.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001188326</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">91509</meta>
+		<meta property="schema:educationalLevel">69.92</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/walter-white_flight" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -83,6 +83,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
