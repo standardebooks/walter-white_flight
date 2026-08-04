@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100654</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young Louisiana Creole woman struggles for racial and gender equality as she asserts her independence.</dc:abstract>
+		<meta property="schema:abstract">A young Louisiana Creole woman struggles for racial and gender equality as she asserts her independence.</meta>
 		<dc:description>
 			&lt;p&gt;After the death of his wife Margot, Jean Daquin, the patriarch of a proud Louisiana Creole family, finds himself crushed by despair. As a widower, Jean is barely able to take care of his daughter Mimi, but he marries Mary Robertson, the industrious daughter of a Chicago businessman. Mary takes charge of the family’s affairs and convinces Jean to move the family to Atlanta in order to pursue more lucrative business opportunities. As Mimi comes of age in Atlanta, she becomes increasingly conscious of her racial identity as a woman of color, and of the stifling cultural conformity that is demanded of Atlanta’s African-American bourgeoisie. &lt;i&gt;Flight&lt;/i&gt; follows Mimi’s struggle to assert her independence and live according to her principles in the face of racial and gender inequality, which takes her from Atlanta to Philadelphia and ultimately New York City.&lt;/p&gt;
 		</dc:description>
